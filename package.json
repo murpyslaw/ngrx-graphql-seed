@@ -1,0 +1,19 @@
+{
+  "name": "ngrx-graphql-seed",
+  "version": "1.0.0",
+  "description": "Boilerplate @ngrx with apollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murpyslaw/ngrx-graphql-seed.git"
+  },
+  "author": "Radoslav Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murpyslaw/ngrx-graphql-seed/issues"
+  },
+  "homepage": "https://github.com/murpyslaw/ngrx-graphql-seed#readme"
+}
